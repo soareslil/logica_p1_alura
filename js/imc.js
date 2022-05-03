@@ -9,3 +9,4 @@ var peso = prompt(nome, "digite peso")
 var imc = calculaImc(altura, peso)
 
 document.write(nome + ", o seu imc é de " + imc)
+
